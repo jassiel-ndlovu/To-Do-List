@@ -1,7 +1,8 @@
 # To-Do-List
+# React + Vite
+
 A simple interactive To-Do list web page made using React.js.
 =======
-# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
